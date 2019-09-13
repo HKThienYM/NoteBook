@@ -1,0 +1,32 @@
+syntax = "proto3";
+package brandManagerment;
+
+import "google/api/annotations.proto";
+
+service BrandManager {
+    rpc GetBrand(Foo) returns (ListBrands) {
+        option (google.api.http) = {
+            get: "/getBrands"
+        };
+    };
+    rpc GetBrandVehicle(Brand) returns (ListVehicle) {};
+}
+
+message Foo {
+}
+
+message Brand {
+    string name = 1;
+}
+
+message ListBrands {
+    repeated Brand listBrands = 1;
+}
+
+message Vehicle {
+    string name = 1;
+}
+
+message ListVehicle {
+    repeated Vehicle listVehicles = 1;
+}

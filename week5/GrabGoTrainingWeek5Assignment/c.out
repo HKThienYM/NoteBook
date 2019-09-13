@@ -1,0 +1,23 @@
+mode: set
+thien.com/response_builder/response_builder.go:22.99,26.2 3 0
+thien.com/response_builder/response_builder.go:28.61,32.2 1 0
+thien.com/response_builder/response_builder.go:34.97,36.35 2 0
+thien.com/response_builder/response_builder.go:40.2,41.29 2 0
+thien.com/response_builder/response_builder.go:49.2,49.15 1 0
+thien.com/response_builder/response_builder.go:36.35,38.3 1 0
+thien.com/response_builder/response_builder.go:41.29,47.3 1 0
+thien.com/get-api/get-api.go:34.51,36.16 2 1
+thien.com/get-api/get-api.go:39.2,40.15 2 1
+thien.com/get-api/get-api.go:44.2,45.52 2 1
+thien.com/get-api/get-api.go:49.2,49.19 1 1
+thien.com/get-api/get-api.go:36.16,38.3 1 1
+thien.com/get-api/get-api.go:40.15,42.3 1 1
+thien.com/get-api/get-api.go:45.52,47.3 1 0
+thien.com/get-api/get-api.go:52.57,54.16 2 1
+thien.com/get-api/get-api.go:57.2,58.15 2 1
+thien.com/get-api/get-api.go:62.2,63.55 2 1
+thien.com/get-api/get-api.go:67.2,67.22 1 1
+thien.com/get-api/get-api.go:54.16,56.3 1 1
+thien.com/get-api/get-api.go:58.15,60.3 1 1
+thien.com/get-api/get-api.go:63.55,65.3 1 0
+thien.com/get-api/get-api.go:70.60,72.2 1 1
